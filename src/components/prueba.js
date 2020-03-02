@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Container, Row, Col, Card, Collapse, Button, Accordion } from 'react-bootstrap';
+import { Container, Row, Col, Card, Button, Accordion } from 'react-bootstrap';
 import Navbar from './nabvar';
 
 const Prueba = ({ pruebas: pruebas }) => {
